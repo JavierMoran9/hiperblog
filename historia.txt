@@ -2,3 +2,4 @@ esta es la historia de fredy vega hola
 otro cambio en este archivo
 hoy es el ceo de platzi
 master 1
+master 2
